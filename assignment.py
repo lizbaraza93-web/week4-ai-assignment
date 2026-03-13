@@ -2,9 +2,9 @@
 print("Hello AI Students")
 
 #Question 5
-print("Name":John)
+print("Name":"John")
 print("Age":20)
-print("City":Nairobi)
+print("City":"Nairobi")
 
 #Question 6
 languages = ["Python", "Java", "C++", "JavaScript", "Go"]
@@ -16,6 +16,7 @@ student = {
 "age": 21,
 "course": "AI"
 }
+print(student["name"])
 
 #Question 8
 A list is a collection of items that can carry different data types at the same time.
